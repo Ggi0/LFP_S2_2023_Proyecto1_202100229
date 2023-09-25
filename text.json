@@ -1,0 +1,9 @@
+{
+    "operaciones":[
+        {
+            "operacion": "multiplicacion",
+            "valor1": 423.005,
+            "valor2": 2.3
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+
+{
+    "Operacion":"Suma"
+    "Valor1": 5
+    "Valor2": [
+        "Operacion":"Inverso"
+        "Valor1": [
+            "Operacion":"Resta"
+            "Valor1": 5
+            "Valor2": 9
+        ]
+    ]
+
+},
+{
+    "Operacion":"Suma"
+    "Valor1": 5
+    "Valor2": [
+        "Operacion":"Inverso"
+        "Valor1": [
+            "Operacion":"Resta"
+            "Valor1": 5
+            "Valor2": 9
+        ]
+    ]
+
+}
